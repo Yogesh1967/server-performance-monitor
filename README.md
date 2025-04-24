@@ -49,4 +49,15 @@ Paste the script contents inside `server-stats.sh`.
 Make sure it starts with:
 
 ```bash
+## 🚀 Live Demo
+
+You can check out the live version of this project here:  
+👉 [Simple Progressive Web App](https://roadmap.sh/projects/server-stats)
+
+---
+
+## 📁 GitHub Repository
+
+GitHub Repo: [https://github.com/Yogesh1967/server-performance-monitor](https://github.com/Yogesh1967/server-performance-monitor))
+
 #!/bin/bash
